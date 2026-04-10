@@ -1,7 +1,3 @@
-# Project Title
-
-A brief description of what this project does and who it's for
-
 # 🚀 Task Manager Pro - Full-Stack Application
 
 This is a full-stack task management application built to demonstrate clean architecture, secure authentication, and modern development practices using React and Fastify.
